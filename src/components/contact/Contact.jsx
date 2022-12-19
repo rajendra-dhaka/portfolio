@@ -50,7 +50,7 @@ export const Contact = () => {
             <BsWhatsapp />
             <h4>Whatsapp</h4>
             <h5>Rajendra Dhaka</h5>
-            <a href='https://api.whatsapp.com/send?phone=+918780026335' target='_blank'>
+            <a href='https://api.whatsapp.com/send?phone=918780026335' target='_blank'>
               Send a message
             </a>
           </article>
