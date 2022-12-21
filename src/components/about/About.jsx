@@ -27,20 +27,21 @@ export const About = () => {
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon' />
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <h5>Companies Worked</h5>
+              <small>2</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>7+ Completed</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt possimus nihil explicabo corrupti dolor
-            illum numquam animi ipsam temporibus et, eius dolorem, perferendis beatae vero atque est, ipsum quibusdam
-            at.
+            Enthusiast and creative Frontend Developer with 1+ years of experience. Skilled in designing and developing
+            web-based applications incorporating a range of technologies. Adept at contributing to a highly
+            collaborative work environment, finding solutions, and determining organization satisfaction while upgrading
+            my skill set and knowledge.
           </p>
 
           <a href='#contact' className='btn btn-primary'>
