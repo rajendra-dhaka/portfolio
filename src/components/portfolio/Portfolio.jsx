@@ -18,9 +18,9 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Foodiez App',
-    github: 'https://github.com/rajendra-dhaka',
-    demo: 'https://foodiez-z.netlify.app',
+    title: 'Tring Contact Book',
+    github: 'https://github.com/rajendra-dhaka/Contact-Book',
+    demo: 'https://tringbook.netlify.app/',
   },
   {
     id: 3,
