@@ -16,27 +16,27 @@ export const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Intutive interfaces.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Focus on the experiences of end users.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Clean & Crispy design.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Latest premium themes.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Professional business websites.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Portfolios and more...</p>
             </li>
           </ul>
         </article>
@@ -48,63 +48,55 @@ export const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>All devices Responsive websites.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Cutting Edge websites.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Blazing fast speed.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>SEO enriched websites.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Specialized in building dashboards.</p>
             </li>
           </ul>
         </article>
         {/* End of Web Development */}
         <article className='service'>
           <div className='service__head'>
-            <h3>Content Creation</h3>
+            <h3>PWA Creation</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>App like interface.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Highly Responsive.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Re-engaging.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Push Notifications enabled.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Access to device Native features.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Connectivity Independent like native apps.</p>
             </li>
           </ul>
         </article>

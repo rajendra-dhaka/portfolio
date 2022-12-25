@@ -85,22 +85,15 @@ export const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>New Tech 1</h4>
-                <small className='text-light'>Coming Soon...</small>
+                <h4>PHP</h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>New Tech 2</h4>
-                <small className='text-light'>Coming Soon...</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>New Tech 3</h4>
-                <small className='text-light'>Coming Soon...</small>
+                <h4>Web Socket & Web RTC</h4>
+                <small className='text-light'>Beginner</small>
               </div>
             </article>
           </div>
