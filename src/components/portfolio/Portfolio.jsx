@@ -25,9 +25,9 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'Shopping Kart',
-    github: 'https://github.com/rajendra-dhaka',
-    demo: 'https://sshopping-kkart.netlify.app',
+    title: 'Adminzz Dashboard',
+    github: 'https://github.com/rajendra-dhaka/admin-dashboard',
+    demo: 'https://adminzz.netlify.app/',
   },
   {
     id: 4,
